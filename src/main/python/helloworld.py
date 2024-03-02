@@ -6,13 +6,10 @@ import sys
 
 def helloworld(out):    
     """
-
     Print a hello world message.
 
     Args:
-
-    out: Output stream to write the message to.
-
+        out: Output stream to write the message to.
     """
     out.write("Hello world of Python\n")
 
