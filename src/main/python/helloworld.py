@@ -4,7 +4,7 @@ This is a simple module to demonstrate a hello world function in Python.
 
 import sys
 
-def helloworld(out):    
+def helloworld(out):
     """
     Print a hello world message.
 
